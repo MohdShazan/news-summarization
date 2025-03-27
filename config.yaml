@@ -1,0 +1,14 @@
+news:
+  num_articles: 10
+  search_url: "https://www.google.com/search?q={query}+news"
+
+sentiment:
+  model: "vader"
+
+tts:
+  language: "hi"  
+  output_file: "output.mp3"
+
+deployment:
+  frontend: "streamlit"
+  backend: "fastapi"

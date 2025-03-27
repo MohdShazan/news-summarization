@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+streamlit
+requests
+torch
+transformers
+sentencepiece
+pydub
+dotenv
+gtts
+=======
+requests
+beautifulsoup4
+nltk
+transformers
+textblob
+vaderSentiment
+gtts
+coqui-tts
+streamlit
+gradio
+fastapi
+uvicorn
+pydantic
+PyYAML
+>>>>>>> e160984a (Update)
