@@ -2,6 +2,8 @@
 _A Streamlit-powered application that extracts, summarizes, and analyzes the sentiment of news articles, with Hindi text-to-speech support._
 
 ---
+[🌐 Live Demo - News Summarization App](https://huggingface.co/spaces/MOHDSHAZAN/news-summarization)
+
 
 ## 🚀 Project Overview  
 
