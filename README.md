@@ -7,7 +7,7 @@ _A Streamlit-powered application that extracts, summarizes, and analyzes the sen
 
 ## 🚀 Project Overview  
 
-This project is part of the **Akaike Technologies Data Science Internship**. It allows users to:  
+This project allows users to:  
 
 ✅ **Scrape News Articles** using BeautifulSoup & GNews API  
 ✅ **Summarize Articles** using Hugging Face Transformers  
